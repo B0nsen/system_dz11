@@ -1,0 +1,6 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  CriticalSectionDlg.cpp
+  Создание кода...
+  Пропуск... (изменения не обнаружены)
+  CriticalSection.cpp
+  CriticalSection.vcxproj -> C:\Users\oitut\source\repos\CriticalSection\Debug\CriticalSection.exe
